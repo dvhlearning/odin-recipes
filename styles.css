@@ -2,3 +2,8 @@ h1 {
     background: darkblue;
     color: white;
 }
+ul {
+    width: 500px;
+    outline: 1px solid blue;
+    margin: 0 auto;
+}
